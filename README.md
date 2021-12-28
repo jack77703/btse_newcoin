@@ -15,8 +15,8 @@ https://chromedriver.storage.googleapis.com/index.html
 ### Create Virtual Environment
 ```
 $ pip install virtualenv
-$ python3 -m bste_newcoin env
-$ source env/bin/activate
+$ python3 -m venv venv
+$ source ./venv/bin/activate
 ```
 
 ### Download requirements.txt
