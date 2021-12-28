@@ -31,3 +31,7 @@ $ echo "username=\"<account>\"" >> .env
 $ echo "passward=\"<passward>\"" >> .env
 ```
 
+### Run Code
+```
+$ python3 new_coin.py
+```
